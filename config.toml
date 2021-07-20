@@ -1,4 +1,4 @@
-baseURL = "https://one.github.io/shadow-articles/"
+baseURL = "https://tactlabs.github.io/tact-shadow-articles/"
 languageCode = "en-us"
 title = "TACT LABS"
 PublishDir="./docs"
